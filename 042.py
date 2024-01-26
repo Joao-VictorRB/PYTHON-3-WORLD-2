@@ -28,6 +28,7 @@ else:
 # pelo usuário. O programa solicita que o usuário insira os comprimentos de três segmentos,
 # realiza os cálculos necessários e, em seguida, classifica o triângulo em diferentes tipos,
 # incluindo Equilátero, Isósceles ou Escaleno, seguindo o teorema da desigualdade de triângulos.
+  
     
 # The Triangle Classification Program in Python is designed to determine and classify a triangle based
 # on the lengths of its three sides, provided by the user. The program prompts the user to input the

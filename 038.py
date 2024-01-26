@@ -16,6 +16,7 @@ else:
 # dois números fornecidos pelo usuário e determinar qual deles é maior ou se são iguais.
 # O programa solicita que o usuário insira o primeiro e o segundo números, realiza as
 # comparações necessárias e, em seguida, exibe o resultado.
+ 
     
 # The Program for Comparing Two Numbers in Python is designed to compare two user-inputted
 # numbers and determine which one is greater or if they are equal. The program prompts

@@ -28,6 +28,7 @@ else:
 # desejado e a renda mensal do solicitante. O programa estabeleceu um limite de 30% 
 # da renda mensal como critério para a aprovação do empréstimo.
 
+
 # I developed a program to calculate the eligibility for a bank loan, considering variables
 # such as the property value, the desired repayment period, and the applicant's monthly income.
 # The program established a limit of 30% of the monthly income as a criterion for loan approval.

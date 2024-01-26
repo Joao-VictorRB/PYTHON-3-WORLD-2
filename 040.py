@@ -23,8 +23,8 @@ else:
 # usuário, seguida da determinação do status acadêmico do aluno. O programa segue
 # critérios padrão para avaliação, classificando o aluno como "Aprovado", "Em Recuperação"
 # ou "Reprovado".
+  
     
-
 # The Academic Performance Evaluation Program is a simple Python application designed to calculate
 # the average of two grades provided by the user, followed by determining the academic status of the
 # student. The program follows standard evaluation criteria, classifying the student as "Approved," 

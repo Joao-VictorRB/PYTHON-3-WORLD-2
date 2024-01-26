@@ -26,9 +26,8 @@ else:
 # escolha do usuário. O programa solicita que o usuário insira um número inteiro e,
 # em seguida, apresenta um menu de opções de conversão. O usuário seleciona uma das
 # bases, e o programa realiza a conversão conforme a escolha feita.
+ 
    
-
-
 # The Integer Conversion Program in Python is designed to convert an integer to different
 # bases (binary, octal, or hexadecimal), based on the user's choice. The program prompts the
 # user to input an integer and then provides a menu of conversion options. The user selects

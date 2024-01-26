@@ -32,6 +32,7 @@ else:
 # seu peso em quilogramas e altura em centímetros, realiza os cálculos
 # necessários e categoriza o resultado conforme as faixas estabelecidas
 # pela Organização Mundial da Saúde (OMS).
+ 
     
 # The Body Mass Index (BMI) Calculation Program in Python is an application
 # designed to determine the BMI based on the weight and height provided by

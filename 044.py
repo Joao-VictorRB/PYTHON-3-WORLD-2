@@ -34,6 +34,7 @@ else:
 # final de um produto com base no método de pagamento selecionado pelo usuário. O programa
 # solicita que o usuário insira o valor do produto e, em seguida, apresenta um menu de opções
 # de pagamento, cada uma com suas respectivas taxas de desconto ou juros
+ 
         
 # The Payment Options Program in Python is a script designed to calculate the final price of a
 # product based on the user 's selected payment method. The program prompts the user to input the

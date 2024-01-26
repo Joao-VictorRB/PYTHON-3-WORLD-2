@@ -25,3 +25,9 @@ else:
 # que permite determinar o status do alistamento militar de um indivíduo com base no seu
 # ano de nascimento. Utilizando a biblioteca 'datetime', o programa obtém o ano atual da máquina
 # em que está sendo executado, garantindo sua funcionalidade independente do ano.
+
+
+# The Automated Military Enrollment Program is an application developed in Python that enables the
+# determination of an individual's military enlistment status based on their year of birth. Utilizing
+# the 'datetime' library, the program retrieves the current year from the machine on which it is being
+# executed, ensuring its functionality independent of the specific year.
