@@ -7,7 +7,8 @@ print('[1] Pedra')
 print('[2] Papel')
 print('[3] Tesoura')
 
-menu = int(input('Qual é a sua jogada: ',end=''))
+print('Qual é a sua jogada: ',end='')
+menu = int(input())
 
 time.sleep(.8)
 print('JO')
